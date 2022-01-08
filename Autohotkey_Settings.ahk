@@ -39,13 +39,6 @@ ALT::return
 !q:: send {BackSpace}
 !e:: Send {Del}
 
-^!1:: Send #1
-^!2:: Send #2
-^!3:: Send #3
-^!4:: Send #4
-
-!f:: Send {vk15sc138}
-
 ^!+F10::
 {
 	ExitApp
