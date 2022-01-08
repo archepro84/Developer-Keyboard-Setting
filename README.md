@@ -18,11 +18,12 @@ right_option | F13 (한영 변환)
 ## Autohotkey.ahk
 From | To
 ---|:---:
-cmd + q | Back Space  
-cmd + e | Delete
-cmd + u, cmd + i | Home, End
-cmd + p, cmd + ; | Page Up, Page Down
-cmd + h j k l | arrow left, up, down, right
+alt + q | Back Space  
+alt + e | Delete
+alt + y, alt + o | 단위 이동
+alt + u, alt + i | Home, End
+alt + p, alt + ; | Page Up, Page Down
+alt + h j k l | arrow left, up, down, right
 
 
 
