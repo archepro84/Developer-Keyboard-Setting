@@ -24,9 +24,9 @@ alt + y, alt + o | 단위 이동
 alt + u, alt + i | Home, End
 alt + p, alt + ; | Page Up, Page Down
 alt + h j k l | arrow left, up, down, right
+alt + shift + F10 | auto hotkey 종료
 
 
 
-
-### 공식 Document
+### Base code
 [개발자 라라 Youtube](https://youtu.be/47pu4yI2Zcs)
