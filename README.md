@@ -13,6 +13,20 @@ cmd + h j k l | arrow left, up, down, right
 right_cmd | F13 (한영 변환)
 right_option | F13 (한영 변환)
 
+
+## Karabiner-ctrl.json
+From | To
+---|:---:
+ctrl + q | Back Space  
+ctrl + e | Delete  
+ctrl + y, ctrl + o | 단위 이동
+ctrl + u, ctrl + i | Home, End
+ctrl + p, ctrl + ; | Page Up, Page Down
+ctrl + h j k l | arrow left, up, down, right
+right_cmd | F13 (한영 변환)
+right_option | F13 (한영 변환)
+
+
 ### Location : /Users/\<User Name\>/.config/karabiner/karabiner.json
 
 ## Autohotkey.ahk
